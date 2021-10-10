@@ -1,0 +1,5 @@
+/.cache
+/venv/
+/playlists/
+/experiment/
+/cluster_representation/

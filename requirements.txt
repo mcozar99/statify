@@ -1,0 +1,14 @@
+plot
+pandas
+numpy
+spotipy
+charts
+hdbscan
+umap
+plotly
+bertopic
+xlwt
+requests
+gensim
+nltk
+lyricsgenius
